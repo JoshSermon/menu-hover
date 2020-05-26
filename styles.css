@@ -1,0 +1,19 @@
+body {
+  background: #000;
+}
+
+.wrapper {
+  width: 980px;
+  margin: 20% auto;
+  list-style: none;
+}
+
+.nav-area {
+  width: 10%;
+  height: 20px;
+  float: left;
+  margin: 0 15px;
+  background: #111;
+  padding: 30px;
+  font-family: Helvetica, sans-serif;
+}
